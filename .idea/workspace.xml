@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="535545cd-dc83-4563-8522-3cd70d1c6f80" name="Changes" comment="" />
+    <list default="true" id="535545cd-dc83-4563-8522-3cd70d1c6f80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework1/src/homework_02.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
